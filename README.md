@@ -2,7 +2,7 @@
 
 Time: 11AM-12PM
 
-Dates: Last Thursday of the month unless indicated otherwise
+Dates: Last Thursday of every month unless indicated otherwise
 
 Location: ISD Conference Room (N116) or C-Bin Conferene Room (105a)
 
