@@ -29,7 +29,7 @@ https://www.nature.com/articles/s41467-018-06304-z
 ## DEC 6, 2018
 - Presenter: Alex Franco
 - Paper: Equitable Thresholding and Clustering, Robert W Cox 
-### https://www.biorxiv.org/content/10.1101/295931v1
+[https://www.biorxiv.org/content/10.1101/295931v1]
 
 ## JAN 24, 2019
 - Presenter: Al Bachman
