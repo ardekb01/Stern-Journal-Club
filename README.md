@@ -37,6 +37,7 @@ Central PMCID: PMC6167367.
 - Paper: Brodt S, Gais S, Beck J, Erb M, Scheffler K, Schönauer M. Fast track to the
 neocortex: A memory engram in the posterior parietal cortex. Science. 2018 Nov
 30;362(6418):1045-1048. doi: 10.1126/science.aau2528. PubMed PMID: 30498125.
+[Brodt et al. 2018](DOCS/Brodt2018.pdf)
 
 ## FEB 28, 2019
 - Presenter: **Zhen Yang**
