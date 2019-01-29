@@ -1,4 +1,4 @@
-# Stern Journal Club Schedule
+# Schedule
 
 Time: 11AM-12PM
 
