@@ -24,12 +24,12 @@ doi: 10.1007/s10548-018-0659-2. Epub 2018 Jul 4. PubMed PMID: 29974288.
 Scheffler K. LISA improves statistical analysis for fMRI. Nat Commun. 2018 Oct
 1;9(1):4014. doi: 10.1038/s41467-018-06304-z. PubMed PMID: 30275541; PubMed
 Central PMCID: PMC6167367.
-[https://www.nature.com/articles/s41467-018-06304-z]
+[https://www.nature.com/articles/s41467-018-06304-z](https://www.nature.com/articles/s41467-018-06304-z)
 
 ## DEC 6, 2018
 - Presenter: Alex Franco
 - Paper: Equitable Thresholding and Clustering, Robert W Cox 
-[https://www.biorxiv.org/content/10.1101/295931v1]
+[https://www.biorxiv.org/content/10.1101/295931v1](https://www.biorxiv.org/content/10.1101/295931v1)
 
 ## JAN 24, 2019
 - Presenter: Al Bachman
