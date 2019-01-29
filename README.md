@@ -1,4 +1,4 @@
-# stern-journal-club.github.io
+# Stern Journal Club Schedule
 
 Time: 11AM-12PM
 
