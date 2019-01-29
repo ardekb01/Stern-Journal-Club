@@ -39,12 +39,8 @@ Central PMCID: PMC6167367.
 
 ## FEB 28, 2019
 - Presenter: **Zhen Yang**
-- Paper: Xia CH, Ma Z, Ciric R, Gu S, Betzel RF, Kaczkurkin AN, Calkins ME, Cook PA,
-García de la Garza A, Vandekar SN, Cui Z, Moore TM, Roalf DR, Ruparel K, Wolf DH,
-Davatzikos C, Gur RC, Gur RE, Shinohara RT, Bassett DS, Satterthwaite TD. Linked 
-dimensions of psychopathology and connectivity in functional brain networks. Nat 
-Commun. 2018 Aug 1;9(1):3003. doi: 10.1038/s41467-018-05317-y. PubMed PMID:
-30068943; PubMed Central PMCID: PMC6070480.
+- Paper: [CH Xia et al. Linked dimensions of psychopathology and connectivity in functional brain networks. Nat 
+Commun. 2018 Aug 1;9(1):3003.](DOCS/Xia2018.pdf)
 
 ## MAR 28, 2019
 - Presenter: **TBD**
