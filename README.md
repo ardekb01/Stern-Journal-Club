@@ -34,12 +34,12 @@ Central PMCID: PMC6167367.
 
 ## JAN 24, 2019
 - Presenter: **Al Bachman**
-- Paper: [S. Brodt et al. Fast track to the neocortex: A memory engram in the posterior parietal cortex. Science. 2018 Nov
+- Paper: [Brodt et al. Fast track to the neocortex: A memory engram in the posterior parietal cortex. Science. 2018 Nov
 30;362(6418):1045-1048.](DOCS/Brodt2018.pdf)
 
 ## FEB 28, 2019
 - Presenter: **Zhen Yang**
-- Paper: [CH Xia et al. Linked dimensions of psychopathology and connectivity in functional brain networks. Nat 
+- Paper: [Xia et al. Linked dimensions of psychopathology and connectivity in functional brain networks. Nat 
 Commun. 2018 Aug 1;9(1):3003.](DOCS/Xia2018.pdf)
 
 ## MAR 28, 2019
