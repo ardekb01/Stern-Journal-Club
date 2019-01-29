@@ -21,25 +21,21 @@ doi: 10.1007/s10548-018-0659-2. Epub 2018 Jul 4. PubMed PMID: 29974288.
 
 ## OCT 25, 2018
 - Presenter: **Emily Stern**
-- Paper: Lohmann G, Stelzer J, Lacosse E, Kumar VJ, Mueller K, Kuehn E, Grodd W,
-Scheffler K. LISA improves statistical analysis for fMRI. Nat Commun. 2018 Oct
-1;9(1):4014. doi: 10.1038/s41467-018-06304-z. PubMed PMID: 30275541; PubMed
-Central PMCID: PMC6167367.
-[https://www.nature.com/articles/s41467-018-06304-z](https://www.nature.com/articles/s41467-018-06304-z)
+- Paper: [Lohmann et al., LISA improves statistical analysis for fMRI. Nat Commun. 2018 Oct
+1;9(1):4014.](https://www.nature.com/articles/s41467-018-06304-z)
 
 ## DEC 6, 2018
 - Presenter: **Alex Franco**
-- Paper: Equitable Thresholding and Clustering, Robert W Cox 
-[https://www.biorxiv.org/content/10.1101/295931v1](https://www.biorxiv.org/content/10.1101/295931v1)
+- Paper: [RW Cox, Equitable Thresholding and Clustering](https://www.biorxiv.org/content/10.1101/295931v1)
 
 ## JAN 24, 2019
 - Presenter: **Al Bachman**
-- Paper: [Brodt et al. Fast track to the neocortex: A memory engram in the posterior parietal cortex. Science. 2018 Nov
+- Paper: [Brodt et al., Fast track to the neocortex: A memory engram in the posterior parietal cortex. Science. 2018 Nov
 30;362(6418):1045-1048.](DOCS/Brodt2018.pdf)
 
 ## FEB 28, 2019
 - Presenter: **Zhen Yang**
-- Paper: [Xia et al. Linked dimensions of psychopathology and connectivity in functional brain networks. Nat 
+- Paper: [Xia et al., Linked dimensions of psychopathology and connectivity in functional brain networks. Nat 
 Commun. 2018 Aug 1;9(1):3003.](DOCS/Xia2018.pdf)
 
 ## MAR 28, 2019
