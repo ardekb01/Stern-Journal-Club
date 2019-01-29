@@ -9,11 +9,8 @@ Location: ISD Conference Room (N116) or C-Bin Conferene Room (105a)
 ## OCT 11, 2018
 - Presenter: **Babak Ardekani**
 - Paper:
-  - Schmidt MF, Storrs JM, Freeman KB, Jack CR Jr, Turner ST, Griswold ME, Mosley 
-TH Jr. A comparison of manual tracing and FreeSurfer for estimating hippocampal
-volume over the adult lifespan. Hum Brain Mapp. 2018 Jun;39(6):2500-2513. doi:
-10.1002/hbm.24017. Epub 2018 Feb 21. PubMed PMID: 29468773; PubMed Central PMCID:
-PMC5951757.
+  - [Schmidt et al., A comparison of manual tracing and FreeSurfer for estimating hippocampal
+volume over the adult lifespan. Hum Brain Mapp. 2018 Jun;39(6):2500-2513.](DOCS/Schmidt2018)
   - Fraser MA, Shaw ME, Anstey KJ, Cherbuin N. Longitudinal Assessment of
 Hippocampal Atrophy in Midlife and Early Old Age: Contrasting Manual Tracing and 
 Semi-automated Segmentation (FreeSurfer). Brain Topogr. 2018 Nov;31(6):949-962.
