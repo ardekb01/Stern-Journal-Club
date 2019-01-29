@@ -34,7 +34,7 @@ Central PMCID: PMC6167367.
 
 ## JAN 24, 2019
 - Presenter: **Al Bachman**
-- Paper: [Brodt S, et al. Fast track to the neocortex: A memory engram in the posterior parietal cortex. Science. 2018 Nov
+- Paper: [S. Brodt et al. Fast track to the neocortex: A memory engram in the posterior parietal cortex. Science. 2018 Nov
 30;362(6418):1045-1048.](DOCS/Brodt2018.pdf)
 
 ## FEB 28, 2019
