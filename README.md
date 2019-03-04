@@ -34,8 +34,7 @@ Semi-automated Segmentation (FreeSurfer). Brain Topogr. 2018 Nov;31(6):949-962.]
 Commun. 2018 Aug 1;9(1):3003.](DOCS/Xia2018.pdf)
 
 ## MAR 28, 2019
-- Presenter: **TBD**
-- Paper: TBD
+- **Cancelled**
 
 ## APR 25, 2019
 - Presenter: **TBD**
