@@ -42,7 +42,7 @@ Commun. 2018 Aug 1;9(1):3003.](DOCS/Xia2018.pdf)
 
 ## MAY 23, 2019
 - Presenter: **Matthew Hoptman**
-- Paper: [Taylor and Saad, FATCAT: (An Efficient) Functional And Tractographic Connectivity Analysis Toolbox. BRAIN CONNECTIVITY Volume 3, Number 5, (2013)](DOCS/fatcat.pdf)
+- Paper: [Taylor and Saad, FATCAT: (An Efficient) Functional And Tractographic Connectivity Analysis Toolbox. BRAIN CONNECTIVITY Volume 3, Number 5, (2013)](DOCS/fatcat13.pdf)
 
 ## JUN 27, 2019
 - Presenter: **TBD**
