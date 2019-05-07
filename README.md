@@ -41,8 +41,8 @@ Commun. 2018 Aug 1;9(1):3003.](DOCS/Xia2018.pdf)
 - Paper: [Maller et al., Revealing the Hippocampal Connectome through Super-Resolution 1150-Direction Difusion MRI. Scientific Reports volume 9, Article number: 2418 (2019)](DOCS/Maller2019.pdf)
 
 ## MAY 23, 2019
-- Presenter: **TBD**
-- Paper: TBD
+- Presenter: **Matthew Hoptman**
+- Paper: [Taylor and Saad, FATCAT: (An Efficient) Functional And Tractographic Connectivity Analysis Toolbox. BRAIN CONNECTIVITY Volume 3, Number 5, (2013)](DOCS/fatcat.pdf)
 
 ## JUN 27, 2019
 - Presenter: **TBD**
