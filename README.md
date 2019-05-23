@@ -2,7 +2,7 @@
 
 Time: 11AM-12PM
 
-Dates: Last Thursday of every month unless indicated otherwise
+Dates: Third Monday of every month unless indicated otherwise
 
 Location: ISD Conference Room (N116) or C-Bin Conferene Room (105a)
 
@@ -44,6 +44,6 @@ Commun. 2018 Aug 1;9(1):3003.](DOCS/Xia2018.pdf)
 - Presenter: **Matthew Hoptman**
 - Paper: [Taylor and Saad, FATCAT: (An Efficient) Functional And Tractographic Connectivity Analysis Toolbox. Brain Connectivity  (2013)](DOCS/fatcat13.pdf)
 
-## JUN 27, 2019
+## JUN 17, 2019
 - Presenter: **TBD**
 - Paper: TBD
