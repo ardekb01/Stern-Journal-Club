@@ -45,5 +45,7 @@ Commun. 2018 Aug 1;9(1):3003.](DOCS/Xia2018.pdf)
 - Paper: [Taylor and Saad, FATCAT: (An Efficient) Functional And Tractographic Connectivity Analysis Toolbox. Brain Connectivity  (2013)](DOCS/fatcat13.pdf)
 
 ## JUN 17, 2019
-- Presenter: **TBD**
-- Paper: TBD
+- Presenter: **Babak Ardekani**
+- Paper:
+  - [Zandifar et al., A comparison of accurate hippocampal segmentation methods. Neuroimage. 2017 155:383-393.](DOCS/Zandifar2017.pdf)
+  - [Rohr et al., Landmark-based elastic registration using approximating thin-plate splines. IEEE Trans Med Imaging. 2001 Jun;20(6):526-34. ](DOCS/Rohr2001.pdf)
