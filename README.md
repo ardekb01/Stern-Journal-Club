@@ -49,3 +49,27 @@ Commun. 2018 Aug 1;9(1):3003.](DOCS/Xia2018.pdf)
 - Paper:
   - [Zandifar et al., A comparison of accurate hippocampal segmentation methods. Neuroimage. 2017 155:383-393.](DOCS/Zandifar2017.pdf)
   - [Rohr et al., Landmark-based elastic registration using approximating thin-plate splines. IEEE Trans Med Imaging. 2001 Jun;20(6):526-34. ](DOCS/Rohr2001.pdf)
+  
+  ## JUL 15, 2019
+- Presenter: **TBD**
+- Paper:**TBD**
+
+  ## AUG 19, 2019
+- Presenter: **TBD**
+- Paper:**TBD**
+
+## SEP 16, 2019
+- Presenter: **TBD**
+- Paper:**TBD**
+
+## OCT 21, 2019
+- Presenter: **TBD**
+- Paper:**TBD**
+
+## NOV 18, 2019
+- Presenter: **TBD**
+- Paper:**TBD**
+
+## DEC 16, 2019
+- Presenter: **TBD**
+- Paper:**TBD**
