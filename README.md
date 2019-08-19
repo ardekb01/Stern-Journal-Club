@@ -51,12 +51,11 @@ Commun. 2018 Aug 1;9(1):3003.](DOCS/Xia2018.pdf)
   - [Rohr et al., Landmark-based elastic registration using approximating thin-plate splines. IEEE Trans Med Imaging. 2001 Jun;20(6):526-34. ](DOCS/Rohr2001.pdf)
   
 ## JUL 15, 2019
-- Presenter: **TBD**
-- Paper:**TBD**
+- **Cancelled**
 
 ## AUG 19, 2019
-- Presenter: **TBD**
-- Paper:**TBD**
+- Presenter: **Alex Franco**
+- Paper: [Jake Son et al., Evaluating fMRI-Based Estimation of Eye Gaze during Naturalistic Viewing](https://www.biorxiv.org/content/10.1101/347765v5)
 
 ## SEP 16, 2019
 - Presenter: **TBD**
