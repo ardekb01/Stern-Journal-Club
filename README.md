@@ -63,8 +63,8 @@ Commun. 2018 Aug 1;9(1):3003.](DOCS/Xia2018.pdf)
 ## OCT 21, 2019
 - Presenter: **Babak Ardekani**
 - Paper: 
-- [Lee et al., Megnetic resonance imaging texture predicts progression to dementia due to Alzheimer's disease earlier than hippocampal volume. J Psychiatry Neurosci, 2019](DOCS/Lee2019_MCI_to_AD_prediction.pdf)
-- [Segmentation of Brain MRI Using SOM-FCM-Based Method and 3D Statistical Descriptors. Computational and Mathematical Methods in Medicine, 2013](DOCS/Ortiz2013_MRI_texture_analysis.pdf)
+  - [Lee et al., Megnetic resonance imaging texture predicts progression to dementia due to Alzheimer's disease earlier than hippocampal volume. J Psychiatry Neurosci, 2019](DOCS/Lee2019_MCI_to_AD_prediction.pdf)
+  - [Segmentation of Brain MRI Using SOM-FCM-Based Method and 3D Statistical Descriptors. Computational and Mathematical Methods in Medicine, 2013](DOCS/Ortiz2013_MRI_texture_analysis.pdf)
 
 ## NOV 18, 2019
 - Presenter: **TBD**
